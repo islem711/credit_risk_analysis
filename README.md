@@ -3,7 +3,7 @@
 Ce dépôt contient un projet d'analyse du risque de crédit, où nous avons exploré une base de données provenant de Kaggle et développé un simulateur de risque de crédit. 
 Notre objectif était d'analyser les données de crédit, créer des modèles prédictifs et fournir un outil de simulation pour évaluer le risque associé.
 
-## Instructions d'Installation
+# Instructions d'Installation
 
 Pour exécuter ce projet, vous devrez installer les dépendances requises. Utilisez le fichier `requirements.txt` pour installer ces dépendances. 
 Exécutez la commande suivante dans votre environnement virtuel :
