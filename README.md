@@ -22,11 +22,11 @@ Cela lancera l'application Streamlit qui vous permettra de simuler différentes 
 Dans ce dépôt, vous avez deux options pour explorer mon analyse :
 
 Option 1 - Visualisation directe du rendu :
-Vous pouvez consulter le rendu de mon analyse dans le fichier `credit_risk_analysis.html`. 
+Vous pouvez consulter le rendu de mon analyse dans le fichier `credit_risk_analysis.html`. \n
 Ouvrez simplement ce fichier dans votre navigateur pour voir les visualisations et les résultats.
 
 Option 2 - Exploration interactive :
-Si vous souhaitez plonger davantage dans le processus d'analyse, vous pouvez lancer le notebook `credit_risk_analysis.ipynb`. 
+Si vous souhaitez plonger davantage dans le processus d'analyse, vous pouvez lancer le notebook `credit_risk_analysis.ipynb`. \\
 Jouez avec le code, exécutez les cellules et explorez nos étapes d'analyse de plus près.
 
 N'hésitez pas à me contacter si vous avez des questions ou des commentaires. 
